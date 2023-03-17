@@ -1,0 +1,2 @@
+# Kompot-App
+Applikacja kompot
