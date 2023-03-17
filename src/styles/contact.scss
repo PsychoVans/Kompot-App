@@ -1,0 +1,23 @@
+.contact {
+    height: 100vh;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 0.75em;
+    
+    .container {
+        background-color: rgb(134, 197, 128);
+        width: 30%;
+        height: 30%;
+        position: relative;
+        border-radius: 1em;
+        box-shadow: 0 0.188em 1.550em rgb(160, 95, 95);
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: space-around;
+        font-size: 50px;
+        
+    }
+}

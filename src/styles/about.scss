@@ -1,0 +1,36 @@
+.about {
+    height: 100vh;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 0.75em;   
+
+
+    .container {
+        background-color: rgb(134, 197, 128);
+        width: 60%;
+        height: 50%;
+        position: relative;
+        border-radius: 1em;
+        box-shadow: 0 0.188em 1.550em rgb(160, 95, 95);
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: space-around;
+        font-size: 30px;
+        text-align: center;
+        line-height: 160%;
+        
+
+    }
+}
+
+
+h1 {
+    background: linear-gradient(200deg, rgba(146,182,57,1) 0%, rgba(9,120,121,1) 35%, rgba(145,5,183,1) 65%, rgba(0,212,255,1) 100%);
+    background-clip: text;
+    -webkit-background-clip: text;
+    color: transparent;
+
+}
